@@ -2,6 +2,8 @@
 
 Udemig Education, kullanıcıların çeşitli yazılım kurslarına erişim sağlamasına olanak tanıyan modern ve kullanıcı dostu bir web arayüzü sunmaktadır. Bu projede HTML, SCSS kullanılarak eğitim almayı kolaylaştıran bir platform oluşturulmuştur.
 
+## Live view:  https://scss-udemig-education.netlify.app/
+
 ## 💼 Proje Sunumu
 
 ![](edu.gif)
