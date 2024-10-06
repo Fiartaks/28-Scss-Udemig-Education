@@ -1,4 +1,4 @@
-# 🅧 Scss - Udemig Education - Eğitim Arayüzü 🅧
+# 🎓 SCSS Eğitimi Udemig Education'da Başladı! 🚀
 
 Udemig Education, kullanıcıların çeşitli yazılım kurslarına erişim sağlamasına olanak tanıyan modern ve kullanıcı dostu bir web arayüzü sunmaktadır. Bu projede HTML, SCSS kullanılarak eğitim almayı kolaylaştıran bir platform oluşturulmuştur.
 
@@ -24,4 +24,3 @@ Udemig Education, kullanıcıların çeşitli yazılım kurslarına erişim sağ
 
 - **🎨 HTML ve SCSS**
 - **📌 Font Awesome** (İkonlar için)
-# 28-Scss-Udemig-Education
